@@ -1,0 +1,13 @@
+.loading-state {
+  font-size: 20px;
+  color: #ffe157;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.error-message {
+  color: #1bb1dc;
+  font-size: 22px;
+}

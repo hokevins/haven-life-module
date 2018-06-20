@@ -1,0 +1,17 @@
+.footer-container {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ffffff;
+  margin: 0px;
+}
+
+.btn-refresh {
+  text-decoration: none;
+  background-color: #1bb1dc;
+  color: #ffffff;
+  margin: 15px;
+  width: 70px;
+  height: 25px;
+  text-align: center;
+  padding-top: 3px;
+}

@@ -1,0 +1,22 @@
+.root-container {
+  border: 20px solid lightgray;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  font-family: tahoma;
+  background-color: lightgray
+}
+
+.header-title {
+  background-color: #1bb1dc;
+  color: #ffffff;
+  width: inherit;
+  height: 2em;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border-radius: 15px 15px 0 0;
+  font-size: 20px;
+}
