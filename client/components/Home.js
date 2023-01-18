@@ -56,7 +56,7 @@ class Home extends React.Component {
                           {customer.name.first} {customer.name.last}
                         </div>
                         <div className="customer-address-line1 capitalize">
-                          {customer.location.street}
+                          {customer.location.street.number} {customer.location.street.name}
                         </div>
                         <div className="customer-address-line2 capitalize">
                           {customer.location.city}, {customer.location.state}
